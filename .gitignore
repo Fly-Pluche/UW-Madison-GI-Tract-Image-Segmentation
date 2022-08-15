@@ -1,0 +1,14 @@
+hubmap-organ-segmentation/
+checkpoint/
+data_detect/
+data_clip/
+data/
+
+
+*.pth
+*.txt
+*.csv
+*.png
+*.jpg
+*.json
+*.xml
